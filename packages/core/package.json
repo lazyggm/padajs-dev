@@ -1,6 +1,6 @@
 {
-  "name": "core",
-  "version": "1.0.1",
+  "name": "@padajs-dev/core",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "lazyggm <iixm@163.com>",
   "homepage": "https://github.com/lazyggm/padajs-dev/tree/main/packages/core#readme",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/lazyggm/padajs-dev/issues"
-  }
+  },
+  "gitHead": "4772518b7222d24752bca27573adacea34511fe7"
 }
