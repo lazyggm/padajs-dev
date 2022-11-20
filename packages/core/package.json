@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/lazyggm/padajs-dev/issues"
   },
-  "gitHead": "59867547d083151dab23b0f3e6137b78bd1fe988"
+  "gitHead": "4f09472b336f3fe67acf23b4ea17c560d3cdecab",
+  "publishConfig": {
+    "access": "public"
+  }
 }
